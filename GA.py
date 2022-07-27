@@ -2,7 +2,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 import random
 import copy
-
+"""
+使用遗传算法解决TSP问题
+"""
 
 #城市类
 class City:
